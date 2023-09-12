@@ -6,7 +6,7 @@ In addition, I take part in meetups and conferences from the IT environment (PyD
 
 My most developed technical skills is SQL.
 
-- 🌱  Feel free to chceck out my LinkedIn https://www.linkedin.com/in/patrycja-kołodziej-1ba713273/
+- 🌱  Feel free to chceck out my LinkedIn https://linkedin.com/in/patrycja-kołodziej
 - 📫  You can reach me at patrycja.koodziej12@gmail.com 
 
 <!---
